@@ -4,7 +4,7 @@
 You type a question into a row of constant combinators, press a button, and the answer appears letter by letter
 on a giant lamp board.
 
-[Русская версия](README.ru.md)
+[Русская версия](README.ru.md) · **[How to use / Как пользоваться](HOW_TO_USE.md)**
 
 ```
 you: hi!
