@@ -1,0 +1,1 @@
+/c local surf=game.player.surface; local counts={}; local ghosts=0; for _,e in pairs(surf.find_entities_filtered{area={{-300,-300},{400,400}}}) do counts[e.type]=(counts[e.type] or 0)+1; if e.type=="entity-ghost" then ghosts=ghosts+1 end end; helpers.write_file("octave_rom_nw_census.json", helpers.table_to_json({counts=counts, ghosts=ghosts}), false)

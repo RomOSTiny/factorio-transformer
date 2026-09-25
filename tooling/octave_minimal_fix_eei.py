@@ -1,0 +1,12 @@
+cmd = (
+    '/c local surf=game.player.surface; '
+    'local eei=surf.find_entities_filtered{type="electric-energy-interface", area={{490.5,596.5},{491.5,597.5}}}[1]; '
+    'local pole=surf.find_entities_filtered{type="electric-pole", area={{500.0,597.0},{501.0,598.0}}}[1]; '
+    'local c1=eei.get_wire_connector(defines.wire_connector_id.pole_copper,true); '
+    'local c2=pole.get_wire_connector(defines.wire_connector_id.pole_copper,true); '
+    'local ok,err=pcall(function() c1.connect_to(c2,false,defines.wire_origin.script) end); '
+    'helpers.write_file("octave_minimal_fix_eei.json", helpers.table_to_json({eei_found=eei~=nil, pole_found=pole~=nil, connected=ok}), false)'
+)
+with open("octave_minimal_fix_eei_cmd.txt", "w") as f:
+    f.write(cmd)
+print(cmd)

@@ -1,0 +1,17 @@
+cmd = (
+    '/c local surf=game.player.surface; local out={}; '
+    'local cmp=surf.find_entities_filtered{type="decider-combinator", area={{506.0,496.5},{507.0,497.5}}}[1]; '
+    'if cmp then '
+    'local ok,sin=pcall(function() return cmp.get_signals(defines.wire_connector_id.combinator_input_red, defines.wire_connector_id.combinator_input_green) end); '
+    'local ok2,sout=pcall(function() return cmp.get_signals(defines.wire_connector_id.combinator_output_red, defines.wire_connector_id.combinator_output_green) end); '
+    'out.input_ok=ok; out.output_ok=ok2; out.inputs={}; out.outputs={}; '
+    'if ok and sin then for _,s in pairs(sin) do table.insert(out.inputs, {name=s.signal.name, count=s.count}) end end; '
+    'if ok2 and sout then for _,s in pairs(sout) do table.insert(out.outputs, {name=s.signal.name, count=s.count}) end end; '
+    'local con=cmp.get_wire_connector(defines.wire_connector_id.combinator_input_red,false); '
+    'out.in_red_count = con and con.real_connection_count or -1; '
+    'else out.found=false end; '
+    'helpers.write_file("octave_minimal_cmp.json", helpers.table_to_json(out), false)'
+)
+with open("octave_minimal_check_cmp_cmd.txt", "w") as f:
+    f.write(cmd)
+print(cmd)

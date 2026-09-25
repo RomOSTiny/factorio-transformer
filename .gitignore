@@ -1,0 +1,30 @@
+# environment / caches
+venv/
+__pycache__/
+*.pyc
+tooling/final_cache/
+tooling/gen_check/
+
+# secrets (RCON password) - copy rcon_config.example.json to rcon_config.json
+tooling/rcon_config.json
+
+# logs and generated artifacts
+*.log
+tooling/final_blueprint.txt
+tooling/final_ids.json
+tooling/v*_final_*
+tooling/bench_vector_bp.txt
+tooling/bench_vector_ids.json
+tooling/model_ids.json
+tooling/export_full_300syl.txt
+tooling/repair_300_manifest.json
+tooling/repair_all_in_one.txt
+tooling/stage2_data.npy
+
+# working notes of the assistant sessions
+PENDING_MEMORY_UPDATES.md
+CONTINUE_HERE_archive_*.md
+scratch_*.txt
+
+# local Claude Code settings
+.claude/

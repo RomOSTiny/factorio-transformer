@@ -1,0 +1,1 @@
+/c local surf=game.player.surface; surf.request_to_generate_chunks({x=500,y=700}, 5); surf.force_generate_chunk_requests(); local counts={}; for _,e in pairs(surf.find_entities_filtered{area={{470,670},{530,730}}}) do counts[e.type]=(counts[e.type] or 0)+1 end; helpers.write_file("octave_minimal_recon3.json", helpers.table_to_json({counts=counts}), false)

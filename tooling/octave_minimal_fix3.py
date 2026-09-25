@@ -1,0 +1,27 @@
+"""Missing: relay_1 (between relay_0@495.5,697 and relay_2@501.5,697 ->
+498.5,697) and o_collect (local 15.5,4.0, offset (492,696) -> 507.5,700)."""
+cmd = (
+    '/c local surf=game.player.surface; local out={}; '
+    'local r1=surf.create_entity{name="arithmetic-combinator", position={498.5,697}, force=game.player.force}; '
+    'local cb1=r1.get_or_create_control_behavior(); '
+    'cb1.parameters={first_signal={type="virtual",name="signal-each"}, operation="*", second_constant=1, output_signal={type="virtual",name="signal-each"}}; '
+    'local r0=surf.find_entities_filtered{type="arithmetic-combinator", area={{495.0,696.5},{496.0,697.5}}}[1]; '
+    'local r2=surf.find_entities_filtered{type="arithmetic-combinator", area={{501.0,696.5},{502.0,697.5}}}[1]; '
+    'local c1=r0.get_wire_connector(defines.wire_connector_id.combinator_output_red,true); '
+    'local c2=r1.get_wire_connector(defines.wire_connector_id.combinator_input_red,true); '
+    'c1.connect_to(c2,false,defines.wire_origin.script); '
+    'local c3=r1.get_wire_connector(defines.wire_connector_id.combinator_output_red,true); '
+    'local c4=r2.get_wire_connector(defines.wire_connector_id.combinator_input_red,true); '
+    'c3.connect_to(c4,false,defines.wire_origin.script); '
+    'local oc=surf.create_entity{name="arithmetic-combinator", position={507.5,700}, force=game.player.force}; '
+    'local cb2=oc.get_or_create_control_behavior(); '
+    'cb2.parameters={first_signal={type="virtual",name="signal-I"}, operation="+", second_constant=0, output_signal={type="virtual",name="signal-O"}}; '
+    'local collect0=surf.find_entities_filtered{type="arithmetic-combinator", area={{504.0,699.5},{505.0,700.5}}}[1]; '
+    'local c5=collect0.get_wire_connector(defines.wire_connector_id.combinator_output_red,true); '
+    'local c6=oc.get_wire_connector(defines.wire_connector_id.combinator_input_red,true); '
+    'c5.connect_to(c6,false,defines.wire_origin.script); '
+    'helpers.write_file("octave_minimal_fix3.json", helpers.table_to_json({r0_found=r0~=nil, r2_found=r2~=nil, collect0_found=collect0~=nil, r1_valid=r1.valid, oc_valid=oc.valid}), false)'
+)
+with open("octave_minimal_fix3_cmd.txt", "w") as f:
+    f.write(cmd)
+print(cmd)

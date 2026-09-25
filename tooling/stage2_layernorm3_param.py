@@ -1,0 +1,38 @@
+"""LN_final instance (x3_fp -> xf_fp) for the Sequencer DAG.
+
+Same combinational LayerNorm core as stage2_layernorm_param.py (now
+layernorm_gen_lib.build_layernorm), reused verbatim - only the input
+vector differs (gamma=1/beta=0 no-op affine, same as every LN
+application in this smoke config).
+"""
+import json
+
+from layernorm_gen_lib import build_layernorm
+
+with open("stage2_sequencer_ref.json") as f:
+    SEQ = json.load(f)
+
+X3_FP = SEQ["x3_fp"]
+EXPECTED_REF = SEQ["xf_fp"]
+T = len(X3_FP)
+N_IN = len(X3_FP[0])
+gamma_real = [1.0] * N_IN
+beta_real = [0.0] * N_IN
+
+bp_string, idmap, meta = build_layernorm(
+    "LN_final parametrized (x3 -> xf, live input buffer)",
+    X3_FP, gamma_real, beta_real, T,
+)
+
+with open("stage2_layernorm3_param_blueprint.txt", "w") as f:
+    f.write(bp_string)
+with open("stage2_layernorm3_param_ids.json", "w") as f:
+    json.dump(idmap, f)
+
+xs = [e["x"] for e in idmap]
+ys = [e["y"] for e in idmap]
+print(f"bbox local: x[{min(xs):.1f},{max(xs):.1f}] y[{min(ys):.1f},{max(ys):.1f}]")
+print(f"meta: {meta}")
+print(f"X3_FP={X3_FP}")
+print(f"EXPECT xf_fp (signal-X, h1lat_p_i): {EXPECTED_REF}")
+print("Saved stage2_layernorm3_param_blueprint.txt")

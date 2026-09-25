@@ -1,0 +1,1 @@
+/c local surf=game.player.surface; local n=0; for _,e in pairs(surf.find_entities_filtered{area={{-260,80},{260,620}}}) do if e.valid and e.name~="character" then local ok=pcall(function() e.destroy() end); if ok then n=n+1 end end end; helpers.write_file("octave_cleanup.json", helpers.table_to_json({destroyed=n}), false)

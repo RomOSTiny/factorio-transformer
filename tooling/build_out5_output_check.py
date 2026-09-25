@@ -1,0 +1,20 @@
+OX, OY = 1223.0, 290.0
+o5x, o5y = 194.5 + OX, 421.0 + OY
+
+cmd = (
+    '/c local surf=game.player.surface; '
+    'local o5=surf.find_entities_filtered{type="arithmetic-combinator", area={{' + str(o5x-0.7) + ',' + str(o5y-0.7) + '},{' + str(o5x+0.7) + ',' + str(o5y+0.7) + '}}}[1]; '
+    'local function fmt(sig) local r={}; if sig then for _,s in pairs(sig) do r[#r+1]=s.signal.name.."="..s.count end end return r end; '
+    'local ok,out_sig=pcall(function() return o5.get_signals(defines.wire_connector_id.combinator_output_red, defines.wire_connector_id.combinator_output_green) end); '
+    'local ok2,in_sig=pcall(function() return o5.get_signals(defines.wire_connector_id.combinator_input_red, defines.wire_connector_id.combinator_input_green) end); '
+    'local wc_out=o5.get_wire_connector(defines.wire_connector_id.combinator_output_red, false); '
+    'local wc_out_g=o5.get_wire_connector(defines.wire_connector_id.combinator_output_green, false); '
+    'helpers.write_file("out5_output_check.json", helpers.table_to_json({'
+    'input=fmt(ok2 and in_sig), output=fmt(ok and out_sig), '
+    'out_red_conn=wc_out and wc_out.real_connection_count or "N/A", '
+    'out_green_conn=wc_out_g and wc_out_g.real_connection_count or "N/A", '
+    'tick=game.tick}), false)'
+)
+with open("out5_output_check_cmd.txt", "w") as f:
+    f.write(cmd)
+print(len(cmd))

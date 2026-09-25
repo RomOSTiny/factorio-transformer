@@ -1,0 +1,1 @@
+{"count":1,"entities":[{"unit":1943,"x":94.5,"y":-155,"wires":{},"in_red":{},"out_red":{},"params":{"op":"+","fs":"signal-T","sc":1,"os":"signal-T"}}]}

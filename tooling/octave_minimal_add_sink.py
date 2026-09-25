@@ -1,0 +1,14 @@
+cmd = (
+    '/c local surf=game.player.surface; '
+    'local oc=surf.find_entities_filtered{type="arithmetic-combinator", area={{507.0,699.5},{508.0,700.5}}}[1]; '
+    'local sink=surf.create_entity{name="arithmetic-combinator", position={510.5,700}, force=game.player.force}; '
+    'local cb=sink.get_or_create_control_behavior(); '
+    'cb.parameters={first_signal={type="virtual",name="signal-O"}, operation="+", second_constant=0, output_signal={type="virtual",name="signal-Z"}}; '
+    'local c1=oc.get_wire_connector(defines.wire_connector_id.combinator_output_red,true); '
+    'local c2=sink.get_wire_connector(defines.wire_connector_id.combinator_input_red,true); '
+    'c1.connect_to(c2,false,defines.wire_origin.script); '
+    'helpers.write_file("octave_minimal_sink.json", helpers.table_to_json({oc_found=oc~=nil, sink_valid=sink.valid}), false)'
+)
+with open("octave_minimal_add_sink_cmd.txt", "w") as f:
+    f.write(cmd)
+print(cmd)

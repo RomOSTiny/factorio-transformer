@@ -1,0 +1,19 @@
+BX, BY = 600, 600
+AX1, AY1, AX2, AY2 = BX - 2, BY - 2, BX + 2, BY + 2
+area = "{{" + str(AX1) + "," + str(AY1) + "},{" + str(AX2) + "," + str(AY2) + "}}"
+
+cmd = (
+    '/c local out={}; '
+    'for _,e in pairs(game.player.surface.find_entities_filtered{type="arithmetic-combinator", area=' + area + '}) do '
+    'local rec={x=e.position.x,y=e.position.y,unit_number=e.unit_number}; '
+    'for _,cid_name in pairs({"combinator_input_red","combinator_input_green","combinator_output_red","combinator_output_green"}) do '
+    'local ok,wc = pcall(function() return e.get_wire_connector(defines.wire_connector_id[cid_name], false) end); '
+    'if ok and wc then rec[cid_name] = wc.real_connection_count else rec[cid_name] = "N/A" end end; '
+    'local ok2,sig = pcall(function() return e.get_signals(defines.wire_connector_id.combinator_output_red, defines.wire_connector_id.combinator_output_green) end); '
+    'rec.output_signals = (ok2 and sig) and sig or {}; '
+    'out[#out+1]=rec end; '
+    'helpers.write_file("tctr_check.json", helpers.table_to_json(out), false)'
+)
+with open("check_tctr_cmd.txt", "w") as f:
+    f.write(cmd)
+print("written")

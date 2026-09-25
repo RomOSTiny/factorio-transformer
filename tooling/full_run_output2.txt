@@ -1,0 +1,2530 @@
+﻿python : C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distan
+ce between entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (12.304088220347058) is greater than max c
+onnection distance (9)
+At line:1 char:349
++ ... ai\tooling; python stage2_layernorm_full_test.py > full_run_output2.t ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (C:\Users\natas\...on distance (9):String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (12.304088220347076) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (12.304088220347044) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (12.304088220347072) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (12.304088220347062) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (12.304088220347072) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (12.304088220347044) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (12.30408822034709) is greater than max connection 
+distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (12.304088220347044) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (12.304088220347044) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (12.30408822034709) is greater than max connection 
+distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (12.304088220347072) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (12.304088220347015) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (12.30408822034709) is greater than max connection 
+distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (12.304088220347072) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:354: OverlappingObjectsWarning: Added object
+	'arithmetic-combinator' (ArithmeticCombinator) at (1995.5, 498.0) facing <Direction.NORTH: 0>
+intersects
+	'arithmetic-combinator' (ArithmeticCombinator) at (1996.032039652334, 498.04755460535773) facing <Direction.NORTH: 0>
+  bp.entities.append(v_local)
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (9.884771760562737) is greater than max connection 
+distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (9.884771760562746) is greater than max connection 
+distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (9.884771760562723) is greater than max connection 
+distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (9.88477176056276) is greater than max connection d
+istance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (9.884771760562723) is greater than max connection 
+distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (9.884771760562732) is greater than max connection 
+distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (9.884771760562751) is greater than max connection 
+distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (9.884771760562732) is greater than max connection 
+distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (9.884771760562751) is greater than max connection 
+distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (9.884771760562732) is greater than max connection 
+distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (9.884771760562723) is greater than max connection 
+distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (9.884771760562732) is greater than max connection 
+distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (9.884771760562751) is greater than max connection 
+distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (9.884771760562751) is greater than max connection 
+distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (9.884771760562732) is greater than max connection 
+distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (9.884771760562723) is greater than max connection 
+distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (9.884771760562732) is greater than max connection 
+distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (9.88477176056278) is greater than max connection d
+istance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (9.884771760562732) is greater than max connection 
+distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (9.884771760562723) is greater than max connection 
+distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (9.884771760562732) is greater than max connection 
+distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (9.884771760562723) is greater than max connection 
+distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (9.884771760562787) is greater than max connection 
+distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (9.884771760562666) is greater than max connection 
+distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (9.884771760562787) is greater than max connection 
+distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (9.884771760562723) is greater than max connection 
+distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (9.884771760562732) is greater than max connection 
+distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (9.88477176056278) is greater than max connection d
+istance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (9.884771760562666) is greater than max connection 
+distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (9.884771760562787) is greater than max connection 
+distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (9.884771760562723) is greater than max connection 
+distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (9.884771760562732) is greater than max connection 
+distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (9.88477176056278) is greater than max connection d
+istance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (9.884771760562675) is greater than max connection 
+distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (9.88477176056278) is greater than max connection d
+istance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (9.884771760562732) is greater than max connection 
+distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (9.884771760562723) is greater than max connection 
+distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (9.884771760562787) is greater than max connection 
+distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (9.884771760562666) is greater than max connection 
+distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (9.884771760562787) is greater than max connection 
+distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (9.884771760562723) is greater than max connection 
+distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (10.90589399546238) is greater than max connection 
+distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (10.90589399546238) is greater than max connection 
+distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (10.90589399546238) is greater than max connection 
+distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (10.905893995462392) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (10.90589399546238) is greater than max connection 
+distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (10.90589399546238) is greater than max connection 
+distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (10.90589399546238) is greater than max connection 
+distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (10.90589399546238) is greater than max connection 
+distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (10.90589399546238) is greater than max connection 
+distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (10.90589399546238) is greater than max connection 
+distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (10.90589399546242) is greater than max connection 
+distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (10.905893995462351) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (10.90589399546238) is greater than max connection 
+distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (10.90589399546238) is greater than max connection 
+distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (10.905893995462351) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (10.905893995462408) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (10.905893995462408) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (10.905893995462351) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (10.905893995462364) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (10.905893995462408) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (10.905893995462408) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (10.905893995462408) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (10.905893995462295) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (10.905893995462408) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (10.905893995462351) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (10.90589399546242) is greater than max connection 
+distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (10.905893995462351) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (10.905893995462408) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (10.905893995462408) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (10.905893995462351) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (10.905893995462408) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (10.905893995462351) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (10.905893995462364) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (10.905893995462408) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (10.905893995462351) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (10.905893995462408) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (13.096797974865618) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (13.096797974865716) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (13.096797974865618) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (13.096797974865716) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (13.096797974865618) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (13.096797974865604) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (13.09679797486573) is greater than max connection 
+distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (13.096797974865618) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (13.096797974865716) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (13.096797974865618) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (13.096797974865716) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (13.096797974865618) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (13.096797974865604) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (13.09679797486573) is greater than max connection 
+distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (11.28302181513919) is greater than max connection 
+distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (11.719385552146022) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (11.719385552146477) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (11.719385552146477) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (11.719385552146022) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (11.719385552146477) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (11.719385552146477) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (11.719385552146022) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (11.719385552146477) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (11.719385552146022) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (11.719385552146477) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (11.719385552146479) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (11.719385552146022) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (11.719385552146477) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (11.719385552146477) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (11.719385552146022) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (11.719385552146477) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (11.719385552146477) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (11.719385552146022) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (11.719385552146477) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (11.719385552146477) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (11.719385552146022) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (11.719385552146477) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (14.907685627525018) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (14.907685627525018) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (14.907685627525018) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (14.907685627525018) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (14.907685627525133) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (14.9076856275249) is greater than max connection d
+istance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (14.907685627525133) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (14.9076856275249) is greater than max connection d
+istance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (14.90768562752512) is greater than max connection 
+distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (14.907685627524925) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (14.90768562752512) is greater than max connection 
+distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (14.9076856275249) is greater than max connection d
+istance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (14.90768562752512) is greater than max connection 
+distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (14.907685627524925) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (14.90768562752512) is greater than max connection 
+distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (14.9076856275249) is greater than max connection d
+istance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (14.90768562752512) is greater than max connection 
+distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (14.9076856275249) is greater than max connection d
+istance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (14.90768562752512) is greater than max connection 
+distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (14.90768562752495) is greater than max connection 
+distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (14.90768562752512) is greater than max connection 
+distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (14.9076856275249) is greater than max connection d
+istance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (14.90768562752512) is greater than max connection 
+distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (14.9076856275249) is greater than max connection d
+istance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (14.90768562752512) is greater than max connection 
+distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (14.9076856275249) is greater than max connection d
+istance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (14.90768562752517) is greater than max connection 
+distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (14.9076856275249) is greater than max connection d
+istance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (14.90768562752512) is greater than max connection 
+distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (14.9076856275249) is greater than max connection d
+istance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (14.90768562752512) is greater than max connection 
+distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (14.9076856275249) is greater than max connection d
+istance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (14.90768562752512) is greater than max connection 
+distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (14.9076856275249) is greater than max connection d
+istance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (14.90768562752512) is greater than max connection 
+distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (14.9076856275249) is greater than max connection d
+istance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (14.90768562752512) is greater than max connection 
+distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (14.9076856275249) is greater than max connection d
+istance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (14.90768562752517) is greater than max connection 
+distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (14.90768562752495) is greater than max connection 
+distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (14.90768562752517) is greater than max connection 
+distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (14.90768562752485) is greater than max connection 
+distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (14.90768562752517) is greater than max connection 
+distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (14.90768562752485) is greater than max connection 
+distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (14.90768562752517) is greater than max connection 
+distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (14.90768562752507) is greater than max connection 
+distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (14.90768562752495) is greater than max connection 
+distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (14.90768562752485) is greater than max connection 
+distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (14.90768562752517) is greater than max connection 
+distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (14.90768562752507) is greater than max connection 
+distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (14.90768562752495) is greater than max connection 
+distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (14.90768562752485) is greater than max connection 
+distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (14.90768562752517) is greater than max connection 
+distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (15.602092663334009) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (16.718387902155836) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (16.718387902155946) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (16.718387902155836) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (16.718387902155953) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (16.71838790215594) is greater than max connection 
+distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:80: OverlappingObjectsWarning: Added object
+	'arithmetic-combinator' (ArithmeticCombinator) at (2059.898137011809, 101.70312649502215) facing <Direction.NORTH: 0>
+intersects
+	'decider-combinator' (DeciderCombinator) at (2060.5, 101.0) facing <Direction.NORTH: 0>
+  bp.entities.append(e)
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:80: OverlappingObjectsWarning: Added object
+	'arithmetic-combinator' (ArithmeticCombinator) at (2059.898137011809, 101.70312649502215) facing <Direction.NORTH: 0>
+intersects
+	'arithmetic-combinator' (ArithmeticCombinator) at (2060.5, 103.0) facing <Direction.NORTH: 0>
+  bp.entities.append(e)
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (16.71838790215584) is greater than max connection 
+distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (16.71838790215583) is greater than max connection 
+distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (16.718387902156064) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (16.71838790215584) is greater than max connection 
+distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (16.718387902155815) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (16.718387902156064) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (16.718387902155815) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (16.718387902155865) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (16.718387902155815) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (16.718387902156064) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (16.71838790215584) is greater than max connection 
+distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (16.71838790215584) is greater than max connection 
+distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (16.718387902156042) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (16.718387902155865) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (16.718387902155815) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (16.718387902155815) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (16.71838790215609) is greater than max connection 
+distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (16.718387902155815) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (16.718387902155865) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (16.718387902155992) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (16.718387902155865) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (16.718387902155865) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (16.71838790215577) is greater than max connection 
+distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (16.71838790215609) is greater than max connection 
+distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (16.718387902155865) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (16.718387902155815) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (16.718387902156042) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (16.718387902155865) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (16.718387902155815) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (16.718387902155865) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:80: OverlappingObjectsWarning: Added object
+	'arithmetic-combinator' (ArithmeticCombinator) at (2308.033009919562, 537.5736686165457) facing <Direction.NORTH: 0>
+intersects
+	'arithmetic-combinator' (ArithmeticCombinator) at (2307.662301641231, 537.7225025844253) facing <Direction.NORTH: 0>
+  bp.entities.append(e)
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (16.71838790215609) is greater than max connection 
+distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (16.71838790215577) is greater than max connection 
+distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (16.718387902155865) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (16.71838790215609) is greater than max connection 
+distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (16.71838790215577) is greater than max connection 
+distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (16.718387902155865) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (16.71838790215609) is greater than max connection 
+distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (16.71838790215577) is greater than max connection 
+distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (16.718387902155865) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (16.71838790215609) is greater than max connection 
+distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (16.71838790215577) is greater than max connection 
+distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (16.718387902155865) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (10.038404810405408) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (16.79379224893544) is greater than max connection 
+distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (17.910249258286616) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (17.910249258286616) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (17.91024925828673) is greater than max connection 
+distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (17.910249258286616) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (17.910249258286505) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (17.91024925828673) is greater than max connection 
+distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (17.91024925828674) is greater than max connection 
+distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (17.91024925828649) is greater than max connection 
+distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (17.91024925828673) is greater than max connection 
+distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (17.910249258286505) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (17.91024925828673) is greater than max connection 
+distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (17.910249258286505) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (17.91024925828673) is greater than max connection 
+distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (17.91024925828673) is greater than max connection 
+distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (17.91024925828653) is greater than max connection 
+distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (17.91024925828673) is greater than max connection 
+distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (17.91024925828648) is greater than max connection 
+distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (17.910249258286754) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (17.910249258286704) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (17.91024925828653) is greater than max connection 
+distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (17.910249258286704) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (17.91024925828648) is greater than max connection 
+distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (17.910249258286754) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (17.91024925828653) is greater than max connection 
+distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (17.910249258286704) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (17.910249258286754) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (17.91024925828648) is greater than max connection 
+distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (17.910249258286754) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (17.91024925828648) is greater than max connection 
+distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (17.910249258286754) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (17.91024925828653) is greater than max connection 
+distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (17.910249258286704) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (17.910249258286754) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (17.91024925828653) is greater than max connection 
+distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (17.910249258286655) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (17.91024925828653) is greater than max connection 
+distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (17.910249258286754) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (17.910249258286754) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (17.91024925828643) is greater than max connection 
+distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (17.910249258286754) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (17.91024925828653) is greater than max connection 
+distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (17.910249258286754) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (17.91024925828643) is greater than max connection 
+distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (17.910249258286754) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (9.727922061357912) is greater than max connection 
+distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (10.928388277184306) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (17.707686541260315) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (18.824293337135412) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (18.824293337135295) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (18.82429333713542) is greater than max connection 
+distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (18.8242933371354) is greater than max connection d
+istance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:80: OverlappingObjectsWarning: Added object
+	'arithmetic-combinator' (ArithmeticCombinator) at (2057.3993276850824, 102.4259071544253) facing <Direction.NORTH: 0>
+intersects
+	'arithmetic-combinator' (ArithmeticCombinator) at (2057.5, 103.0) facing <Direction.NORTH: 0>
+  bp.entities.append(e)
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (18.8242933371353) is greater than max connection d
+istance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (18.824293337135533) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (18.8242933371353) is greater than max connection d
+istance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (18.824293337135522) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (18.824293337135277) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (18.824293337135327) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (18.824293337135497) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (18.8242933371353) is greater than max connection d
+istance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (18.82429333713555) is greater than max connection 
+distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (18.8242933371353) is greater than max connection d
+istance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (18.8242933371353) is greater than max connection d
+istance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (18.824293337135472) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (18.824293337135348) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (18.824293337135522) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (18.82429333713525) is greater than max connection 
+distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (18.8242933371353) is greater than max connection d
+istance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (18.824293337135572) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (18.82429333713525) is greater than max connection 
+distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (18.824293337135522) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (18.824293337135348) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (18.82429333713525) is greater than max connection 
+distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (18.824293337135522) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (18.824293337135348) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (18.824293337135472) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (18.824293337135348) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (18.82429333713525) is greater than max connection 
+distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (18.824293337135572) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (18.82429333713525) is greater than max connection 
+distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (18.82429333713525) is greater than max connection 
+distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (18.824293337135572) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (18.824293337135348) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (18.824293337135472) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (18.824293337135348) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (18.82429333713525) is greater than max connection 
+distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (18.824293337135472) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (18.824293337135348) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (18.824293337135472) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (18.824293337135348) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (14.492855684535897) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (14.029386365926547) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (18.710880527235293) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (19.82762801107769) is greater than max connection 
+distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (19.827628011077685) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (19.827628011077696) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (19.827628011077678) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (19.82762801107769) is greater than max connection 
+distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (19.827628011077703) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (19.82762801107769) is greater than max connection 
+distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (19.82762801107769) is greater than max connection 
+distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (19.827628011077664) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (19.827628011077493) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (19.827628011077664) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (19.82762801107769) is greater than max connection 
+distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (19.827628011077717) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (19.82762801107769) is greater than max connection 
+distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (19.82762801107769) is greater than max connection 
+distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (19.827628011077643) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (19.82762801107774) is greater than max connection 
+distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (19.82762801107769) is greater than max connection 
+distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (19.827628011077643) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (19.82762801107774) is greater than max connection 
+distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (19.82762801107769) is greater than max connection 
+distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (19.82762801107769) is greater than max connection 
+distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (19.827628011077643) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (19.82762801107769) is greater than max connection 
+distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (19.82762801107769) is greater than max connection 
+distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (19.82762801107774) is greater than max connection 
+distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (19.82762801107769) is greater than max connection 
+distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (19.82762801107742) is greater than max connection 
+distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (19.82762801107774) is greater than max connection 
+distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (19.827628011077643) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (19.82762801107774) is greater than max connection 
+distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (19.827628011077643) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (19.827628011077643) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (19.82762801107774) is greater than max connection 
+distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (19.82762801107774) is greater than max connection 
+distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (19.827628011077643) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (19.82762801107774) is greater than max connection 
+distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (19.827628011077643) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (19.827628011077643) is greater than max connection
+ distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (19.82762801107774) is greater than max connection 
+distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (19.84731931759172) is greater than max connection 
+distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+C:\Users\natas\Desktop\factorio-ai\tooling\stage2_layernorm_full_test.py:81: ConnectionDistanceWarning: Distance betwee
+n entity 'arithmetic-combinator' and entity 'arithmetic-combinator' (18.40093455903276) is greater than max connection 
+distance (9)
+  bp.add_circuit_connection(color, prev_id, bid, side_1="output", side_2="input")
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+add_section
+Logic entities before power: 3243
+Power: 679 lattice substations (1868 empty-territory points skipped) + 254 gap poles, worst slack before gap-fill: 1.89
+Total entities: 4185
+Saved stage2_layernorm_full_test_blueprint.txt

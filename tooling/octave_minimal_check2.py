@@ -1,0 +1,16 @@
+BX, BY = 500, 600
+area = "{{" + str(BX - 30) + "," + str(BY - 30) + "},{" + str(BX + 30) + "," + str(BY + 30) + "}}"
+cmd = (
+    '/c local surf=game.player.surface; local out={}; '
+    'local all={}; for _,e in pairs(surf.find_entities_filtered{area=' + area + '}) do table.insert(all, {name=e.name, x=e.position.x, y=e.position.y}) end; '
+    'out.all=all; '
+    'local src=surf.find_entities_filtered{type="constant-combinator", area=' + area + '}[1]; '
+    'if src then local ok,sout=pcall(function() return src.get_signals(defines.wire_connector_id.combinator_output_red, defines.wire_connector_id.combinator_output_green) end); '
+    'out.src_out={}; if ok and sout then for _,s in pairs(sout) do table.insert(out.src_out,{name=s.signal.name,count=s.count}) end end end; '
+    'local ghosts={}; for _,e in pairs(surf.find_entities_filtered{type="entity-ghost", area=' + area + '}) do table.insert(ghosts,{name=e.ghost_name,x=e.position.x,y=e.position.y}) end; '
+    'out.ghosts=ghosts; '
+    'helpers.write_file("octave_minimal_check2.json", helpers.table_to_json(out), false)'
+)
+with open("octave_minimal_check2_cmd.txt", "w") as f:
+    f.write(cmd)
+print("bytes:", len(cmd))
