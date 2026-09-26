@@ -28,3 +28,6 @@ scratch_*.txt
 
 # local Claude Code settings
 .claude/
+
+# personal outreach drafts
+OUTREACH.md
