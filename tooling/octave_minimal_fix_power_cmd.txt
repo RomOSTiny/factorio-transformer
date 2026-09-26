@@ -1,1 +1,0 @@
-/c local surf=game.player.surface; local p=surf.create_entity{name="medium-electric-pole", position={509.5,599.5}, force=game.player.force, quality="legendary"}; helpers.write_file("octave_minimal_fix_power.json", helpers.table_to_json({created=p~=nil and p.valid}), false)

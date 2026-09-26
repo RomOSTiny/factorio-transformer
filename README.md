@@ -59,7 +59,6 @@ the end), SEND / RESET buttons (constant combinators you switch on and off), a l
 | `tooling/circuit_builder.py`, `circuit_sim.py`, `sigkeys.py` | blueprint builder, tick-level circuit simulator, signal pool |
 | `tooling/final_block_test.py`, `sim_final_attn.py`, `sim_final_io.py`, `sim_final_run.py` | offline gates (simulated blueprint vs reference) |
 | `tooling/final_live.py`, `block_live.py`, `rcon_client.py` | building and testing in a running game over RCON |
-| `PROJECT.md`, `PROGRESS.md` | full project history (in Russian): every decision, bug and measurement |
 
 Earlier stages are kept too: a keyword classifier (stage 1), a 4-dimensional smoke model, and a 3-layer
 rehearsal model (44.5 K entities) that was the first to generate text in the game.
@@ -71,7 +70,7 @@ keeps 60 UPS with ~105 K combinators (the whole model runs at 60 UPS on a Ryzen 
 
 * The ready blueprint is attached to the [latest release](../../releases) (`final_blueprint.txt`, 49 MB).
   Pasting a 49 MB string through the game's import dialog is slow; the reliable way is the RCON builder:
-  host the save with RCON enabled, then `python tooling/final_live.py build X Y` (see `tooling/LIVE_OPS_README.md`).
+  host the save with RCON enabled, then `python tooling/final_live.py build X Y`.
 * To regenerate it: get the model weights (`model_ctx256.json`, not included), `python tooling/final_gen.py`.
 
 ## License

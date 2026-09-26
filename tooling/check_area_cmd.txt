@@ -1,1 +1,0 @@
-/c local out={}; for _,e in pairs(game.player.surface.find_entities_filtered{area={{595,595},{605,605}}}) do out[#out+1]={name=e.name,type=e.type,x=e.position.x,y=e.position.y} end; helpers.write_file("area_check.json", helpers.table_to_json(out), false)

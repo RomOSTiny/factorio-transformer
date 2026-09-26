@@ -1,1 +1,0 @@
-/c local surf=game.player.surface; local revived,failed=0,0; for _,e in pairs(surf.find_entities_filtered{type="entity-ghost", area={{470,570},{530,630}}}) do local rok=pcall(function() e.revive() end); if rok then revived=revived+1 else failed=failed+1 end end; helpers.write_file("octave_minimal_revive2.json", helpers.table_to_json({revived=revived, failed=failed}), false)

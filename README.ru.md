@@ -60,7 +60,6 @@ bot: hello! i am busy with my factory, but i always have time to talk.
 | `tooling/circuit_builder.py`, `circuit_sim.py`, `sigkeys.py` | сборщик чертежа, потиковый симулятор circuit network, пул сигналов |
 | `tooling/final_block_test.py`, `sim_final_attn.py`, `sim_final_io.py`, `sim_final_run.py` | офлайн-проверки (симуляция чертежа против эталона) |
 | `tooling/final_live.py`, `block_live.py`, `rcon_client.py` | постройка и проверка в запущенной игре через RCON |
-| `PROJECT.md`, `PROGRESS.md` | полная история проекта: каждое решение, баг и замер |
 
 Ранние этапы тоже здесь: классификатор по ключевым словам (этап 1), смок-модель размерности 4 и 3-слойная
 модель-репетиция (44,5 тыс. сущностей), которая первой сгенерировала текст в игре.
@@ -72,7 +71,7 @@ bot: hello! i am busy with my factory, but i always have time to talk.
 
 * Готовый чертёж приложен к [последнему релизу](../../releases) (`final_blueprint.txt`, 49 МБ). Вставлять строку
   такого размера через окно импорта медленно. Надёжнее собрать через RCON: запустить сохранение с включённым RCON
-  и выполнить `python tooling/final_live.py build X Y` (см. `tooling/LIVE_OPS_README.md`).
+  и выполнить `python tooling/final_live.py build X Y`.
 * Чтобы сгенерировать чертёж заново: взять веса модели (`model_ctx256.json`, в репозиторий не входят) и выполнить
   `python tooling/final_gen.py`.
 

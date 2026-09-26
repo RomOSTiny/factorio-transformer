@@ -1,1 +1,0 @@
-﻿/c local sels=game.player.surface.find_entities_filtered{type="selector-combinator"}; local e=sels[1]; local cb=e.get_or_create_control_behavior(); cb.parameters={operation="select",select_max=true,index_constant=0}; game.print("set, unit_number="..e.unit_number)

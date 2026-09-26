@@ -31,3 +31,27 @@ scratch_*.txt
 
 # personal outreach drafts
 OUTREACH.md
+
+# internal working notes (kept locally, not published)
+CLAUDE.md
+CONTINUE_HERE.md
+PROJECT.md
+PROGRESS.md
+AUTOMATION.md
+CHEAT_SHEET.md
+MODEL_REQUIREMENTS.md
+SETUP_NEW_PC.md
+tooling/*.md
+
+# debug artifacts: one-off RCON commands, dumps, test blueprints
+tooling/*.txt
+tooling/*.json
+tooling/*.png
+tooling/*.prof
+tooling/*.lua
+tooling/*.lua_data
+!tooling/final_info.json
+!tooling/rcon_config.example.json
+
+# video footage tools (work in progress)
+tooling/video_*

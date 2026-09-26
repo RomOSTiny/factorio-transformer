@@ -1,1 +1,0 @@
-/c local surf=game.player.surface; local out={}; for _,e in pairs(surf.find_entities_filtered{type="arithmetic-combinator", area={{72.6,448.6},{73.4,449.4}}}) do table.insert(out, {name=e.name, x=e.position.x, y=e.position.y, unit=e.unit_number}) end; helpers.write_file("octave_v_local_check2.json", helpers.table_to_json(out), false)
