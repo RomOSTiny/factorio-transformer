@@ -1,0 +1,288 @@
+{
+  "snapshot": "2026-10-11",
+  "description": "Retained prepared corpus; earlier stage-specific revisions are not reconstructed.",
+  "alphabet": [
+    "a",
+    "b",
+    "c",
+    "d",
+    "e",
+    "f",
+    "g",
+    "h",
+    "i",
+    "j",
+    "k",
+    "l",
+    "m",
+    "n",
+    "o",
+    "p",
+    "q",
+    "r",
+    "s",
+    "t",
+    "u",
+    "v",
+    "w",
+    "x",
+    "y",
+    "z",
+    " ",
+    ".",
+    ",",
+    "!",
+    "?",
+    "'",
+    "\"",
+    "-",
+    "\n",
+    ":"
+  ],
+  "files": [
+    {
+      "file": "factorio_train.bin",
+      "bytes": 258536202,
+      "sha256": "555cb9ab647b3d1c6c81212e2465f84c03e0a73676b58ecd7dea2588056a79fb",
+      "license": "MIT",
+      "documents": 800000
+    },
+    {
+      "file": "factorio_train_docs.npy",
+      "bytes": 6400128,
+      "sha256": "8b9f451d18e6c7294190990543f46a51b5ddd86f99632dc9c2978ed85c5a7079",
+      "license": "MIT"
+    },
+    {
+      "file": "factorio_train_turns.npy",
+      "bytes": 20199536,
+      "sha256": "52c13541e4f2c9bb37d7cf8d4a48bf5538f9acbad0db3bdb8354564385395b0a",
+      "license": "MIT"
+    },
+    {
+      "file": "factorio_val.bin",
+      "bytes": 964319,
+      "sha256": "442039bab231725e7c08ef85f0a560fa4a9f0a4a6cf85c9826969b8c3631bd75",
+      "license": "MIT",
+      "documents": 3000
+    },
+    {
+      "file": "factorio_val_docs.npy",
+      "bytes": 24128,
+      "sha256": "3967b27fb34cc35fe563237570d4186e1b8e9c6f69975fbb00b222b125109501",
+      "license": "MIT"
+    },
+    {
+      "file": "factorio_val_turns.npy",
+      "bytes": 75528,
+      "sha256": "d9d0004bc4dffc5988d34b2b959eff758bfa8737b63cf71f946072a0e89d34ac",
+      "license": "MIT"
+    },
+    {
+      "file": "personachat_train.bin",
+      "bytes": 7394112,
+      "sha256": "6748af074c4c362d81f5d0276408eb6ef85e2179a48b27675013bd468728b7e8",
+      "license": "CC-BY-4.0",
+      "source": "https://huggingface.co/datasets/google/Synthetic-Persona-Chat",
+      "documents": 6217
+    },
+    {
+      "file": "personachat_train_docs.npy",
+      "bytes": 49864,
+      "sha256": "48e53b12d4af382d9bc87915e7801c9c61bab0235f1fe1deae49b8a60bf80f6a",
+      "license": "CC-BY-4.0",
+      "source": "https://huggingface.co/datasets/google/Synthetic-Persona-Chat"
+    },
+    {
+      "file": "personachat_train_turns.npy",
+      "bytes": 579792,
+      "sha256": "c6502bdce820e24594f8e5011f8a7eb2ab3500443a7eb74f079895e384370840",
+      "license": "CC-BY-4.0",
+      "source": "https://huggingface.co/datasets/google/Synthetic-Persona-Chat"
+    },
+    {
+      "file": "personachat_val.bin",
+      "bytes": 765239,
+      "sha256": "302ebc1f7d4eb431d26febd24c6f1fa2882c053580482eb6f86fbe4c072c9b9d",
+      "license": "CC-BY-4.0",
+      "source": "https://huggingface.co/datasets/google/Synthetic-Persona-Chat",
+      "documents": 672
+    },
+    {
+      "file": "personachat_val_docs.npy",
+      "bytes": 5504,
+      "sha256": "2362fbb3b2edc0a36bc9a550572f791053f9525fab8a0d9c434154225c3a8f04",
+      "license": "CC-BY-4.0",
+      "source": "https://huggingface.co/datasets/google/Synthetic-Persona-Chat"
+    },
+    {
+      "file": "personachat_val_turns.npy",
+      "bytes": 61840,
+      "sha256": "6e39d0ba28e2dee5e9d66032bd4e0da69af03ba6ed763b9cc0bfc7b3f9ef22da",
+      "license": "CC-BY-4.0",
+      "source": "https://huggingface.co/datasets/google/Synthetic-Persona-Chat"
+    },
+    {
+      "file": "soda_train.bin",
+      "bytes": 481089949,
+      "sha256": "db7bb19b50f411cdadb16afc89628ab3e5ebc87300e9dc29439ad72670c25257",
+      "license": "CC-BY-4.0",
+      "source": "https://huggingface.co/datasets/allenai/soda",
+      "documents": 1084572
+    },
+    {
+      "file": "soda_train_docs.npy",
+      "bytes": 8676704,
+      "sha256": "7e4bfe1ed9eb92ff6b1844adb2800aa1e3545caca402e6f93bd8d4844ee7c125",
+      "license": "CC-BY-4.0",
+      "source": "https://huggingface.co/datasets/allenai/soda"
+    },
+    {
+      "file": "soda_train_turns.npy",
+      "bytes": 27026480,
+      "sha256": "06b79d50af7a65299ff8934d94859921b1866ab09708b2bebe169c14652e0f62",
+      "license": "CC-BY-4.0",
+      "source": "https://huggingface.co/datasets/allenai/soda"
+    },
+    {
+      "file": "soda_val.bin",
+      "bytes": 59047218,
+      "sha256": "9ef79fda67aa75e5cd1b70215335c831cdfb7e859a38504c1aaf1f4dd79c5152",
+      "license": "CC-BY-4.0",
+      "source": "https://huggingface.co/datasets/allenai/soda",
+      "documents": 133121
+    },
+    {
+      "file": "soda_val_docs.npy",
+      "bytes": 1065096,
+      "sha256": "d18f1cd6cb1ebc4a6adf16c06b1d47ae21a6ba4f82892eb4b07ae0c9e80a91b3",
+      "license": "CC-BY-4.0",
+      "source": "https://huggingface.co/datasets/allenai/soda"
+    },
+    {
+      "file": "soda_val_turns.npy",
+      "bytes": 3316352,
+      "sha256": "38b2e0551180aae56758b488b310dfb6aa387b107bfa538a2677e53de11df2ae",
+      "license": "CC-BY-4.0",
+      "source": "https://huggingface.co/datasets/allenai/soda"
+    },
+    {
+      "file": "storychat_train.bin",
+      "bytes": 84672606,
+      "sha256": "6585383054205817a850bcb0e9f296a34a81cfa4ff476ab95052875f0f0d9c43",
+      "license": "CDLA-Sharing-1.0",
+      "source": "https://huggingface.co/datasets/roneneldan/TinyStories",
+      "documents": 403704
+    },
+    {
+      "file": "storychat_train_docs.npy",
+      "bytes": 3229760,
+      "sha256": "ef0bcf5fbf3bf4158438e24855e0ef859ea429008f925ed22264f65aae096937",
+      "license": "CDLA-Sharing-1.0",
+      "source": "https://huggingface.co/datasets/roneneldan/TinyStories"
+    },
+    {
+      "file": "storychat_train_turns.npy",
+      "bytes": 3229760,
+      "sha256": "ef0bcf5fbf3bf4158438e24855e0ef859ea429008f925ed22264f65aae096937",
+      "license": "CDLA-Sharing-1.0",
+      "source": "https://huggingface.co/datasets/roneneldan/TinyStories"
+    },
+    {
+      "file": "storychat_val.bin",
+      "bytes": 877977,
+      "sha256": "712a01e1336ba03390b3490a7c67808f496cd2d2794d72ab8fd1f561a5e0332c",
+      "license": "CDLA-Sharing-1.0",
+      "source": "https://huggingface.co/datasets/roneneldan/TinyStories",
+      "documents": 4191
+    },
+    {
+      "file": "storychat_val_docs.npy",
+      "bytes": 33656,
+      "sha256": "eb0343c2e6b1c3f45ba7ef4e510f2fb4a0a14b3dad98d8d320911553e3d70c60",
+      "license": "CDLA-Sharing-1.0",
+      "source": "https://huggingface.co/datasets/roneneldan/TinyStories"
+    },
+    {
+      "file": "storychat_val_turns.npy",
+      "bytes": 33656,
+      "sha256": "eb0343c2e6b1c3f45ba7ef4e510f2fb4a0a14b3dad98d8d320911553e3d70c60",
+      "license": "CDLA-Sharing-1.0",
+      "source": "https://huggingface.co/datasets/roneneldan/TinyStories"
+    },
+    {
+      "file": "tinydialogues_train.bin",
+      "bytes": 71458558,
+      "sha256": "2f6828e7a62093204f1fd860fc138b85e27bf3de15ba2003b3115d351198bfbf",
+      "license": "MIT",
+      "source": "https://huggingface.co/datasets/styfeng/TinyDialogues",
+      "documents": 102156
+    },
+    {
+      "file": "tinydialogues_train_docs.npy",
+      "bytes": 817376,
+      "sha256": "e615286c237f07d195a6a491bf9813c2bcfcb5040220a4ad0e0d7962665707d8",
+      "license": "MIT",
+      "source": "https://huggingface.co/datasets/styfeng/TinyDialogues"
+    },
+    {
+      "file": "tinydialogues_train_turns.npy",
+      "bytes": 4380160,
+      "sha256": "d1621f7e23b5e0d6c553d2a27206bff8862b3608061df760689100d47e599f81",
+      "license": "MIT",
+      "source": "https://huggingface.co/datasets/styfeng/TinyDialogues"
+    },
+    {
+      "file": "tinydialogues_val.bin",
+      "bytes": 12721641,
+      "sha256": "518cd425da7b890298d6307da463d89c05e43479604c5dfc972edb266fe0eb54",
+      "license": "MIT",
+      "source": "https://huggingface.co/datasets/styfeng/TinyDialogues",
+      "documents": 18256
+    },
+    {
+      "file": "tinydialogues_val_docs.npy",
+      "bytes": 146176,
+      "sha256": "a45d9021056d6b93169707c4ffb9074604706db667bd6cc40925bc45e5d180d8",
+      "license": "MIT",
+      "source": "https://huggingface.co/datasets/styfeng/TinyDialogues"
+    },
+    {
+      "file": "tinydialogues_val_turns.npy",
+      "bytes": 777744,
+      "sha256": "de3d9674d14c0bed4997590e5083921cdb83f69b6dd969d05466228cdafe7ea3",
+      "license": "MIT",
+      "source": "https://huggingface.co/datasets/styfeng/TinyDialogues"
+    },
+    {
+      "file": "tinystories_train.bin",
+      "bytes": 2169709168,
+      "sha256": "2a29d5075210191be3a326354aa34857cc474f73d80cf265438f58054ce8e30b",
+      "license": "CDLA-Sharing-1.0",
+      "source": "https://huggingface.co/datasets/roneneldan/TinyStories",
+      "documents": 2694959
+    },
+    {
+      "file": "tinystories_train_docs.npy",
+      "bytes": 21559800,
+      "sha256": "f7037c0aca4ff4072dc18c34b41df67a0de9bb0ca09d124534bac7e44039d9d1",
+      "license": "CDLA-Sharing-1.0",
+      "source": "https://huggingface.co/datasets/roneneldan/TinyStories"
+    },
+    {
+      "file": "tinystories_val.bin",
+      "bytes": 21913522,
+      "sha256": "79f4dfe21751911ca24bde4e8ee6ff932f75eb82f004bc9bb4dbf7c716ebc2a2",
+      "license": "CDLA-Sharing-1.0",
+      "source": "https://huggingface.co/datasets/roneneldan/TinyStories",
+      "documents": 27395
+    },
+    {
+      "file": "tinystories_val_docs.npy",
+      "bytes": 219288,
+      "sha256": "61e76baf2ea042e8c596e05ca9021c6a82552ae15c550f1480f891a709fa9e37",
+      "license": "CDLA-Sharing-1.0",
+      "source": "https://huggingface.co/datasets/roneneldan/TinyStories"
+    }
+  ]
+}

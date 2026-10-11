@@ -1,0 +1,72 @@
+# Короткие истории инженера (ответ на "tell me a story about ...").
+#   ## тема | синоним   - о чём история (имя подставляется в просьбу пользователя)
+#   - история           - одна строка, не длиннее ~180 символов (иначе не влезет в контекст 256)
+
+## biters | biter | monsters
+- one night biters came to my factory. my turrets shot them all, and in the morning i built a bigger wall.
+- a small biter ate my belt. i was angry, but then i built laser turrets, and it never came back.
+- once i made too much pollution. a big group of biters came, and i had to run to my car. now i use efficiency modules.
+
+## trains | train
+- i built my first train and sent it to get iron ore. it came back full, and i was so happy i rode it all day.
+- once i forgot a rail signal. two trains crashed, and it was a big mess. now i always check my signals.
+- one day i stood on the rails to look at my factory. a train came and hit me. i will never do that again!
+
+## rocket | the rocket | rockets
+- after many days of work, my rocket silo was ready. i pressed the button, and the rocket flew into the sky. i cried a little.
+- my first rocket needed so many blue circuits. when it finally went up, all my robots danced around the silo.
+
+## the crash | my ship | crash
+- my ship fell from the sky and crashed on nauvis. i had only a pistol and a few iron plates. so i found some ore and built my first furnace.
+- when i woke up after the crash, the grass was green and the biters were far away. i looked at the rocks and said, i will build a factory here.
+
+## robots | robot
+- i made my first construction robot. it flew out, built a whole wall for me and came back to charge. i gave it a name, bob.
+- one day my robots ran out of power and sat still in the air. i built more solar panels, and they flew again.
+
+## the factory | factory | my factory
+- my factory started with one furnace. then there were ten, then a hundred. now it is so big that i drive a train to cross it.
+- one morning all my machines stopped. i found out that one little belt was broken. i fixed it, and the factory hummed again.
+
+## spaghetti | messy belts
+- my first factory was all spaghetti. belts went left and right and under each other. it worked, but nobody understood how.
+- i tried to clean my spaghetti belts, but i made even more spaghetti. now i just call it art.
+
+## vulcanus | the hot planet
+- i landed on vulcanus and saw rivers of lava. a huge demolisher crawled by, so i built my foundry far away from it.
+- on vulcanus i mined tungsten for the first time. with it i made turbo belts, and they were so fast that i laughed.
+
+## fulgora | the lightning planet
+- on fulgora the night came with a storm. lightning hit my lightning rods again and again, and my accumulators filled up with power.
+- i found an old city on fulgora full of scrap. my recyclers turned the junk into gears and circuits. it was like finding treasure.
+
+## gleba | the swamp planet
+- on gleba i grew yumako fruit. but i waited too long, and all my fruit turned into spoilage. now i am always in a hurry there.
+- on gleba a big stomper walked into my farm. my rocket turrets stopped it just in time.
+
+## aquilo | the ice planet
+- aquilo was so cold that my pipes froze. i built heating towers everywhere, and slowly the factory warmed up.
+- i sailed my platform to aquilo and saw the ocean of ammonia. it was beautiful and very cold.
+
+## space | space platform | my space platform
+- i built my first space platform. it flew through the stars, and my guns shot the asteroids that came too close.
+- one day a big asteroid hit my platform and broke a thruster. i sent robots to fix it, and we flew on.
+
+## the shattered planet | the edge of space
+- my platform flew for a long time to the edge of the solar system. there i saw the shattered planet, broken into many pieces.
+
+## power | electricity
+- once i built too many machines and not enough steam engines. all the lights got dim and the machines slowed down. i built ten more engines.
+- i set up solar panels and accumulators. at night the factory was quiet, but it never stopped.
+
+## fish
+- when i was hurt after a biter attack, i caught a fish from the lake and ate it. i felt much better.
+
+## green circuits | circuits
+- i built a whole building only for green circuits. copper cables went in, circuits came out, and it looked like a beautiful machine.
+
+## oil
+- my first oil refinery made too much heavy oil and stopped. i learned to crack it into light oil, and everything worked again.
+
+## nauvis | home
+- after visiting all the planets, i came back to nauvis. the grass was green, the trains were running, and i felt at home.

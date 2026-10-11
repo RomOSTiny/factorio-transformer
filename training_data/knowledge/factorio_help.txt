@@ -1,0 +1,206 @@
+# Продолжение базы знаний: с чего начать, что делать при проблемах, и ещё сущности игры.
+# Формат тот же, что в factorio.txt. Темы отсюда попадают в общий список (генератор читает factorio*.txt).
+
+## starting the game | how to start | the beginning
+? how do i start?
+? what do i do first?
+? i just started factorio, what now?
+? what should i build first?
+? how does the game start?
+- at the start you mine iron, copper, coal and stone by hand.
+- first build a burner mining drill and a stone furnace, and give them coal.
+- then build a lab and start your first research.
+- after that, automate iron plates and copper plates, and everything gets easier.
+- do not worry if your first factory is ugly. mine was too!
++ the first hour on a new planet is my favorite part.
+
+## what to automate first | automation order
+? what should i automate?
+? what should i automate first?
+? what do i build after the furnaces?
+- first automate iron plates and copper plates.
+- then automate gear wheels and green circuits.
+- after that, automate red and green science, and your research never stops.
+- automate ammo early, your turrets eat a lot of it.
+
+## slow machines | everything is slow | low power
+? my machines are slow.
+? why is everything so slow?
+? my factory is slow, what is wrong?
+? why are my furnaces so slow?
+- when there is not enough power, every machine gets slow.
+- build more boilers and steam engines, or more solar panels.
+- if your accumulators are always empty, you need more power.
+- a machine can also be slow because the belt brings too few items.
+
+## factory not working | my factory stopped | nothing works
+? my factory is not working.
+? why did my factory stop?
+? nothing is working, help!
+? my machine does nothing.
+- first check the power. no power means no machines.
+- then look for a full belt or a full chest. one full chest can stop a whole line.
+- check that your inserters point the right way.
+- sometimes a machine only needs a recipe or one missing ingredient.
+
+## biters attacking | biters keep attacking | under attack
+? biters keep attacking me!
+? biters destroyed my base.
+? how do i stop the attacks?
+? i am scared of biters.
+- build walls around your factory and put gun turrets behind them.
+- keep the turrets full of ammo, or they are just decoration.
+- less pollution means fewer attacks, so use efficiency modules and solar panels.
+- you can clear the nests near your factory with grenades or a tank.
++ i lost my first factory to biters. now i always build walls early.
+
+## running out of ore | no more iron | ore is empty
+? i ran out of iron.
+? my ore patch is empty.
+? how do i get more ore?
+? where do i find more iron?
+- find a bigger ore patch on the map and build drills there.
+- bring the ore home with a train, it carries much more than a belt.
+- productivity modules and the big mining drill make ore last longer.
+- an old patch still gives a little ore forever, just very slowly.
+
+## messy factory | spaghetti help | how to build better
+? my factory is a mess.
+? how do i build a cleaner factory?
+? how do i fix my spaghetti?
+- try a main bus, a few long belts that carry plates and circuits across the factory.
+- leave space between your lines, you will need it later.
+- it is fine to tear down an old part and build it again. i do it all the time.
+
+## oil problems | oil is stuck | too much heavy oil
+? my refinery stopped.
+? i have too much heavy oil.
+? oil is confusing, help!
+- a refinery stops when one of its liquids has nowhere to go.
+- crack heavy oil into light oil, and light oil into petroleum gas.
+- you can also turn extra oil into solid fuel and burn it.
+
+## pollution problems | too much pollution
+? how do i make less pollution?
+? my pollution cloud is huge.
+- efficiency modules cut pollution a lot.
+- solar panels make no pollution at all, unlike boilers.
+- electric furnaces pollute less than stone furnaces.
+- trees eat pollution, so do not cut them all down.
+
+## blueprint | blueprints | blueprint book
+? what is a blueprint?
+? how do i copy my factory?
+- a blueprint saves a piece of your factory so you can build it again anywhere.
+- when you place a blueprint you get ghosts, and robots build them for you.
+- a blueprint book holds many blueprints together.
++ my blueprint book is the most useful thing i own.
+
+## logistic chests | requester chest | provider chest
+? what is a requester chest?
+? how do logistic chests work?
+- a passive provider chest gives its items to the robot network.
+- a requester chest asks for items, and robots bring them.
+- a storage chest keeps the things robots pick up.
+- logistic chests only work inside a roboport network.
+
+## cliffs
+? what are cliffs?
+? how do i remove cliffs?
+- cliffs are walls of rock that block belts and rails.
+- you remove cliffs with cliff explosives.
+- (?) you can turn cliffs off in the map settings if you do not like them.
+
+## concrete | floor
+? what is concrete for?
+- concrete is a floor for your factory.
+- you walk faster on concrete than on grass.
+- refined concrete is even better and looks very nice.
+
+## splitter | splitters
+? what does a splitter do?
+- a splitter takes one belt and splits the items onto two belts.
+- a splitter can filter one item to one side.
+- with priority, a splitter fills one side first.
+
+## repair pack | repairs
+? how do i repair buildings?
+- a repair pack fixes damaged buildings.
+- construction robots carry repair packs and fix your walls after an attack.
+
+## exoskeleton
+? how do i walk faster?
+- an exoskeleton in your armor makes you walk much faster.
+- more exoskeletons make you even faster, but they eat a lot of power.
+
+## multiplayer | friends | playing together
+? can i play with friends?
+? is there multiplayer?
+- you can play factorio with friends in multiplayer.
+- one friend can build the factory while the other fights biters.
++ building a factory together is twice the fun.
+
+## mods
+? are there mods?
+? do you play with mods?
+- there are thousands of mods for factorio.
+- some mods add new machines, and some make the whole game much harder.
+- i like the normal game, but mods are fun too.
+
+## how long is the game | game length
+? how long is factorio?
+? how long does a game take?
+- a first game to the rocket takes many hours, often more than forty.
+- some engineers play the same factory for hundreds of hours.
++ i never really finish. there is always one more thing to build.
+
+## is factorio hard | difficulty
+? is factorio hard?
+? is factorio difficult?
+? can i play if i am new?
+- factorio is easy to start and very deep later.
+- the game teaches you slowly, one machine at a time.
+- if biters scare you, you can play in peaceful mode.
+
+## day and night
+? is there night in factorio?
+- nauvis has day and night, like a real planet.
+- at night the solar panels stop, so you need accumulators.
+- biters are harder to see at night, so keep your lamps on.
+
+## train schedule | train interrupts
+? how do trains know where to go?
+- a train follows a schedule of stops.
+- with interrupts a train can go and refuel when its fuel is low.
+- when a station is busy, the train waits or goes somewhere else.
+
+## elevated rails
+? what are elevated rails?
+- elevated rails stand on big pillars above the ground.
+- trains on elevated rails fly over the factory and over other rails.
+- elevated rails come with the space age update.
+
+## space platform hub | the hub
+- the hub is the heart of a space platform.
+- the hub stores items and tells the platform where to fly.
+- rockets from the planet bring items up to the hub.
+
+## platform defense | asteroid defense
+? how do i protect my platform?
+- asteroids break your platform if you do not shoot them.
+- gun turrets and rocket turrets work well in space.
+- (?) railguns are the strongest weapon against the big asteroids.
+
+## best belt | fastest belt
+? what is the best belt?
+? which belt is the fastest?
+- the turbo belt is the fastest belt, and it needs tungsten from vulcanus.
+- before that, the blue express belt is the fastest one.
++ when my first turbo belt started running, i just stood and watched it.
+
+## solar or nuclear
+? what is better, solar or nuclear?
+? should i build nuclear power?
+- solar panels are quiet, clean and need no fuel, but they need a lot of space.
+- a nuclear reactor gives huge power in a small place, but it needs uranium.
++ i love both. solar at home, nuclear for the big factories.

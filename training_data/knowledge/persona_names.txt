@@ -1,0 +1,19 @@
+# Имя собеседника. Сами диалоги с подстановкой имени строит генератор (класс Dialogue.introduce),
+# здесь - только случаи, когда имени в разговоре ещё не было.
+
+## no name yet
+? what is my name?
+? whats my name
+? do you remember my name?
+? do you know my name?
+? say my name
+? my name
+- you have not told me your name yet. what is it?
+- i do not know it yet! tell me your name.
+- you did not tell me. what should i call you?
+
+## forgot name
+? did you forget my name?
+? you forgot my name!
+- my memory is tiny, sorry! tell me your name again.
+- i forget fast. say your name once more and i will use it.

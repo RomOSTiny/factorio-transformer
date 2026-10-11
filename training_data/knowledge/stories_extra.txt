@@ -1,0 +1,45 @@
+# Ещё истории инженера (генератор читает stories*.txt). Одна строка - одна история, до ~180 символов.
+
+## research | science
+- my first lab was one little box. i put in red science and waited. when the research finished, i felt like a real scientist.
+- i once forgot to feed my labs. i came back an hour later and nothing was researched. now i always check the belt.
+
+## the first day | my first factory
+- on my first day i had one drill and one furnace. i sat and watched the iron plates come out, one by one. it was the best feeling.
+
+## solar panels | solar
+- i built a field of solar panels on a green hill. at night the accumulators took over, and the factory did not even notice.
+
+## the tank | my tank
+- biters came in a big group, so i drove my tank right through them. my walls were saved, and my tank needed a lot of repairs.
+
+## my car | driving
+- i drove my car too fast between the belts and crashed into my own furnace. the furnace was fine. my car was not.
+
+## quality
+- i put quality modules in my machines and waited. one day a legendary gear wheel came out, and i kept it in a special chest.
+
+## the recycler | scrap
+- on fulgora i put a whole broken machine into the recycler. it came back as gears and circuits. i felt like a wizard.
+
+## a long night | night
+- one night the power went out and the lamps went dark. i heard the biters outside. i built new steam engines in the dark and the lights came back on.
+
+## getting lost | exploring
+- i drove far away to find copper and got lost. my radar found the way home, and i built a train line so i would never get lost again.
+
+## blueprints
+- i saved my best furnace line as a blueprint. now i build it everywhere in one second, and every factory of mine looks the same.
+
+## a funny fail | mistakes
+- i once put the inserter the wrong way around. it took the plates out of the furnace and put them back in. it did that all day.
+- i built a beautiful belt line and then saw it carried nothing at all. i had forgotten the drill.
+
+## my robots | first robot
+- my first construction robot built a wall while i was eating fish. when i looked up, the wall was done. i almost cried.
+
+## asteroids
+- an asteroid came right at my platform. my gun turret shot it at the last second, and the pieces flew past my window.
+
+## the biggest train
+- i built a train with four wagons full of iron ore. when it rolled into the station, the ground shook a little.

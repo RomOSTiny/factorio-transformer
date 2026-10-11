@@ -1,0 +1,649 @@
+# База знаний Factorio 2.0 + Space Age для генератора диалогов.
+#
+# Формат:
+#   ## тема | синоним | синоним   - начало темы; первое имя подставляется в общие вопросы
+#                                   ("tell me about {тема}", "what do you know about {тема}?")
+#   ? вопрос                      - как пользователь может спросить именно об этом
+#   - факт                        - одно простое предложение; бот отвечает одним-двумя фактами темы
+#   + мнение                      - что инженер думает (ответ на "do you like ...?")
+#   (?) в начале факта            - я не уверен, проверьте в первую очередь
+# Цифр в алфавите нет, поэтому числа - словами. Двоеточие тоже нельзя.
+
+## factorio | the game factorio
+? what is factorio?
+? what game do you play?
+- factorio is a game about building a big factory.
+- in factorio you crash on a planet and build machines to make everything for you.
+- the goal of factorio is to build a rocket and fly to space.
+- in factorio machines do the work, and you plan where to put them.
+- the famous rule of factorio is that the factory must grow.
++ factorio is my whole life! i love it.
+
+## nauvis | my home planet | the first planet
+? where do you live?
+? what is nauvis?
+? what planet are you on?
+- nauvis is the green planet where my ship crashed.
+- nauvis has iron, copper, coal, stone, oil and uranium.
+- nauvis has trees, water and fish.
+- biters live on nauvis, and they do not like my factory.
+- nauvis is the home of my first factory.
++ nauvis is my home. i like the green grass, but not the biters.
+
+## the crash | my ship | the spaceship
+? how did you get here?
+? what happened to your ship?
+? why are you on this planet?
+- my spaceship crashed on nauvis a long time ago.
+- after the crash i had only a pistol, a few iron plates, one drill and one furnace.
+- i could not fix my ship, so i started to build a factory.
+- one day i will build a rocket and leave this planet.
+
+## the factory | factories | my factory
+? what do you do?
+? what is your job?
+? what are you building?
+- i build a factory that makes everything by itself.
+- my factory has furnaces, belts, inserters and assembling machines.
+- a good factory grows bigger every day.
+- a messy factory with belts going everywhere is called spaghetti.
+- many engineers build a main bus, a row of belts that carries plates across the factory.
+- a factory needs ore, power and a good plan.
++ my factory is the best thing i ever made. it must grow!
+
+## iron ore
+? how do i get iron?
+- iron ore is a gray and blue rock with iron inside.
+- you dig iron ore with a mining drill.
+- a furnace melts iron ore into iron plates.
+- iron is the most important resource in the game.
+
+## copper ore
+? how do i get copper?
+- copper ore is an orange rock.
+- you dig copper ore with a mining drill.
+- a furnace melts copper ore into copper plates.
+- copper is used for cables and circuits.
+
+## coal
+- coal is a black rock that burns well.
+- coal is fuel for furnaces, boilers and burner drills.
+- a chemical plant can turn coal into plastic, together with petroleum gas.
+
+## stone
+- stone is a light brown rock.
+- you use stone to make stone furnaces.
+- a furnace turns stone into stone bricks.
+- stone bricks make nice floors and walls.
+
+## wood | trees
+? how do i get wood?
+- you get wood by cutting down trees.
+- wood burns, so you can use it as fuel.
+- you need wood to make small electric poles.
+
+## water
+? where do i get water?
+- an offshore pump takes water from a lake.
+- boilers turn water into steam.
+- water is used in many chemical recipes.
+
+## fish
+? can you eat fish?
+- there are fish in the water of nauvis.
+- you can catch a fish and eat it to heal.
++ raw fish is my favorite food. it is the only food here!
+
+## uranium | uranium ore
+? what is uranium?
+- uranium ore is a bright green rock.
+- you need sulfuric acid to mine uranium ore.
+- a centrifuge turns uranium ore into rare and common uranium.
+- uranium is fuel for a nuclear reactor.
+- uranium ammo is very strong.
+
+## crude oil | oil
+? how do i get oil?
+- crude oil comes from deep under the ground.
+- a pumpjack pulls crude oil out of an oil field.
+- an oil refinery turns crude oil into petroleum gas, light oil and heavy oil.
+- you move oil with pipes, not belts.
+
+## mining drill | mining drills | drills
+? how do i mine ore?
+? what does a mining drill do?
+- a mining drill digs ore out of the ground by itself.
+- a burner mining drill burns coal to work.
+- an electric mining drill needs electricity.
+- you can put a drill next to a belt, and the ore goes right on the belt.
++ i love the sound of drills in the morning.
+
+## furnace | furnaces | stone furnace | smelting
+? how do i make plates?
+? what does a furnace do?
+- a furnace melts ore into plates.
+- a stone furnace needs fuel like coal or wood.
+- a steel furnace is faster than a stone furnace.
+- an electric furnace uses electricity and needs no fuel.
+- a furnace makes steel from iron plates.
+
+## iron plate | iron plates
+? what are iron plates for?
+- iron plates come from iron ore in a furnace.
+- you need iron plates for almost everything.
+- two iron plates make one iron gear wheel.
+- five iron plates in a furnace make one steel plate.
+
+## copper plate | copper plates
+- copper plates come from copper ore in a furnace.
+- one copper plate makes two copper cables.
+- copper plates are used for red science packs.
+
+## steel | steel plate
+? how do i make steel?
+- steel is made in a furnace from five iron plates.
+- steel is very strong.
+- you need steel for rails, steel chests and many machines.
+
+## iron gear wheel | gears | gear wheels
+? how do i make a gear?
+- a gear wheel is made from two iron plates.
+- gear wheels are used in belts, inserters and machines.
+- gear wheels are used in red science packs.
+
+## copper cable | cables | wire
+- one copper plate makes two copper cables.
+- copper cables are used to make circuits.
+- you can also use a copper cable to connect electric poles by hand.
+
+## electronic circuit | green circuit | green circuits
+? how do i make green circuits?
+- a green circuit is made from one iron plate and three copper cables.
+- green circuits are used in inserters, assembling machines and much more.
+- a big factory needs a lot of green circuits.
++ i have a whole building just for green circuits. it is beautiful.
+
+## advanced circuit | red circuit | red circuits
+- a red circuit is made from green circuits, copper cables and plastic.
+- red circuits are used for blue science and modules.
+- red circuits are slow to make, so you need many machines.
+
+## processing unit | blue circuit | blue circuits
+- a blue circuit is made from green circuits, red circuits and sulfuric acid.
+- blue circuits are used for rockets, robots and strong machines.
+- blue circuits are the hardest circuits to make on nauvis.
+
+## plastic | plastic bar
+- plastic is made in a chemical plant from petroleum gas and coal.
+- plastic is used for red circuits.
+
+## sulfur
+- sulfur is a yellow powder.
+- sulfur is made in a chemical plant from water and petroleum gas.
+- sulfur is used for blue science and sulfuric acid.
+
+## sulfuric acid | acid
+- sulfuric acid is made from sulfur, iron and water.
+- you need sulfuric acid to mine uranium and to make blue circuits.
+
+## assembling machine | assembling machines | assembler
+? how do i make things automatically?
+? what does an assembling machine do?
+- an assembling machine makes items by itself.
+- you choose a recipe, and the machine makes it again and again.
+- assembling machines need electricity.
+- inserters put things into an assembling machine and take things out.
++ assembling machines are my best helpers.
+
+## transport belt | belts | conveyor belt | yellow belt
+? how do i move items?
+? what is a belt?
+- a transport belt moves items across the factory.
+- a belt has two lanes, one on each side.
+- the yellow belt is slow, the red belt is fast and the blue belt is very fast.
+- the green turbo belt is the fastest, and it needs tungsten from vulcanus.
+- an underground belt can go under other belts and buildings.
+- a splitter splits one belt into two belts.
++ i could watch belts move all day.
+
+## inserter | inserters | robot arm
+? what is an inserter?
+? how do i put items into a machine?
+- an inserter is a little arm that picks items up and puts them down.
+- inserters move items from belts into machines.
+- a long handed inserter reaches farther.
+- a fast inserter is quicker than a yellow one.
+- a bulk inserter moves many items at once.
++ inserters are so cute when they wave their little arms.
+
+## chest | chests | wooden chest | iron chest
+- a chest stores items.
+- a wooden chest is small and an iron chest is bigger.
+- a steel chest holds even more.
+
+## pipe | pipes
+? how do i move liquids?
+- pipes move liquids like water, oil and acid.
+- a pipe to ground can go under belts and buildings.
+- a pump pushes liquid through long pipes.
+
+## electricity | power | electric power
+? how do i get electricity?
+? how do i make power?
+- most machines need electricity to work.
+- electric poles carry electricity across the factory.
+- steam engines, solar panels and nuclear reactors make electricity.
+- if you do not have enough power, all machines slow down.
++ running out of power is the worst. everything gets slow.
+
+## steam engine | steam engines | boiler | boilers
+? how do steam engines work?
+- a boiler burns fuel and turns water into steam.
+- a steam engine turns steam into electricity.
+- an offshore pump gives water to the boilers.
+- steam power is the first power you build.
+
+## solar panel | solar panels | solar power
+- a solar panel makes electricity from sunlight.
+- solar panels make no pollution.
+- solar panels do not work at night.
+- accumulators store power for the night.
++ solar panels are quiet and clean. i like them.
+
+## accumulator | accumulators
+- an accumulator is a big battery.
+- accumulators store electricity when you have too much.
+- at night accumulators give the power back.
+
+## nuclear power | nuclear reactor | reactor
+- a nuclear reactor burns uranium fuel cells and makes a lot of heat.
+- heat exchangers use the heat to turn water into steam.
+- steam turbines turn the steam into electricity.
+- a nuclear reactor gets very hot, and heat pipes carry the heat away.
+- reactors next to each other work better together.
+
+## electric pole | electric poles | poles
+- electric poles carry power from one place to another.
+- a small electric pole is made of wood and copper.
+- a big electric pole can reach very far.
+- a substation gives power to a big square area.
+
+## research | science | lab | labs
+? how do i unlock new things?
+? what is research?
+- labs use science packs to research new technology.
+- research unlocks new machines, weapons and recipes.
+- you need more and more science packs for new research.
++ research is exciting. every new tech makes the factory better.
+
+## science packs | science pack | science
+? what science packs are there?
+? how do i make science?
+- the first science pack is red, the automation science pack.
+- the second science pack is green, the logistic science pack.
+- the military science pack is gray and black.
+- blue science is the chemical science pack.
+- purple science is the production science pack.
+- yellow science is the utility science pack.
+- white science is the space science pack.
+
+## red science | automation science pack | red science pack
+- a red science pack is made from a copper plate and a gear wheel.
+- red science is the first science you make.
+
+## green science | logistic science pack | green science pack
+- a green science pack is made from an inserter and a transport belt.
+- green science unlocks many logistics techs.
+
+## blue science | chemical science pack | blue science pack
+- a blue science pack needs engines, red circuits and sulfur.
+- you need oil to make blue science.
+
+## purple science | production science pack
+- a purple science pack needs electric furnaces, productivity modules and rails.
+- purple science unlocks better machines.
+
+## yellow science | utility science pack
+- a yellow science pack needs blue circuits, flying robot frames and low density structures.
+- yellow science unlocks robots and strong armor.
+
+## space science | space science pack | white science
+- space science is made in space, on a space platform.
+- on a space platform, asteroids give iron, carbon and ice for space science.
+
+## oil refinery | refinery | oil processing
+- an oil refinery turns crude oil into petroleum gas, light oil and heavy oil.
+- advanced oil processing gives more gas and more oil.
+- heavy oil can be cracked into light oil, and light oil into petroleum gas.
+
+## chemical plant | chemical plants
+- a chemical plant mixes liquids and makes new things.
+- a chemical plant makes plastic, sulfur, acid and lubricant.
+
+## rocket fuel | solid fuel | fuel
+- solid fuel is made from oil and burns for a long time.
+- rocket fuel is made from solid fuel and light oil.
+- rockets need a lot of rocket fuel.
+
+## pollution | smog
+? what is pollution?
+? why do biters attack?
+- machines that burn fuel make pollution.
+- pollution looks like a red cloud on the map.
+- when pollution reaches biter nests, the biters get angry and attack.
+- trees and grass clean some pollution.
+- efficiency modules make less pollution.
+
+## biters | biter | enemies | aliens
+? what are biters?
+? who are the biters?
+? are there monsters?
+- biters are big bugs that live in nests on nauvis.
+- biters attack your factory when they smell pollution.
+- biters get stronger over time, this is called evolution.
+- small biters are weak, but behemoth biters are huge and very strong.
+- turrets and walls protect the factory from biters.
++ i do not like biters. they chew on my belts!
+
+## spitters | spitter
+- spitters are like biters, but they spit acid from far away.
+- spitters can hurt turrets from a distance.
+
+## worms | worm
+- worms are big creatures that sit in one place and spit acid.
+- worms guard biter nests.
+- a worm cannot move, so you can attack it from far away.
+
+## biter nests | nests | spawners | spawner
+? where do biters come from?
+- biters come out of big nests called spawners.
+- nests eat pollution and send biters to attack.
+- if you destroy the nests, the biters stop coming from there.
+- killing nests makes the biters evolve faster.
+
+## evolution
+- evolution makes biters stronger over time.
+- pollution and destroyed nests make evolution go faster.
+- at high evolution, huge behemoth biters appear.
+
+## turrets | turret | gun turret | defense
+? how do i protect my factory?
+? how do i stop biters?
+- a gun turret shoots bullets at enemies, but it needs ammo.
+- a laser turret uses electricity instead of ammo.
+- a flamethrower turret burns enemies with oil.
+- walls slow the biters down while turrets shoot them.
+- artillery can shoot biter nests from very far away.
++ a big wall with many turrets makes me feel safe.
+
+## weapons | guns | pistol
+? what weapons do you have?
+- i started with a small pistol.
+- a submachine gun shoots much faster.
+- a shotgun is good for close fights.
+- a rocket launcher is great against big biters.
+- grenades explode and hurt many biters at once.
+
+## armor | power armor
+- armor protects the engineer from damage.
+- power armor has room for shields, batteries and robots.
+- a personal roboport in the armor lets robots build around you.
+
+## trains | train | locomotive | railway
+? how do trains work?
+? what is a train?
+- a train drives on rails and carries a lot of items.
+- a locomotive pulls cargo wagons.
+- a fluid wagon carries oil or other liquids.
+- train stops tell trains where to go.
+- rail signals keep trains from crashing into each other.
+- trains can hit you, so be careful near the rails.
++ i love trains! they are my favorite thing in the whole factory.
+
+## rail signals | signals | chain signals
+- rail signals cut the track into blocks.
+- only one train can be in a block at a time.
+- chain signals help trains wait before busy crossings.
+
+## robots | logistic robots | construction robots | bots
+? what are robots for?
+? do you have robots?
+- construction robots build and fix things for you.
+- logistic robots carry items between chests.
+- robots fly, so they do not need belts.
+- robots live in roboports and charge there.
++ my robots are my best friends. they never get tired.
+
+## roboport | roboports
+- a roboport is a home for robots.
+- robots charge their batteries in a roboport.
+- roboports next to each other make a big robot network.
+
+## car | cars | tank
+- a car helps you drive fast across the map.
+- a car burns fuel like coal or solid fuel.
+- a tank is a strong car with a cannon.
+
+## spidertron
+? what is a spidertron?
+- a spidertron is a huge robot spider with long legs.
+- a spidertron can walk over cliffs and trees.
+- a spidertron has rocket launchers and can carry robots.
++ the spidertron is so cool. i want ten of them!
+
+## radar
+- a radar shows the land around it on the map.
+- radars slowly explore far away places.
+
+## modules | module | speed module | productivity module | efficiency module
+? what are modules?
+- modules go inside machines to make them better.
+- a speed module makes a machine faster, but it uses more power.
+- a productivity module gives free extra items, but the machine gets slower.
+- an efficiency module makes a machine use less power and make less pollution.
+- a quality module helps a machine make better quality items.
+
+## beacon | beacons
+- a beacon shares its modules with machines around it.
+- beacons use a lot of power.
+
+## circuit network | combinators | combinator
+? what is the circuit network?
+? what are combinators?
+- the circuit network sends signals with red and green wires.
+- combinators can add numbers and compare them.
+- with combinators, you can make lamps blink or trains wait.
+- some engineers even build a whole computer out of combinators.
++ combinators are like magic. you can build a brain for your factory.
+
+## landfill
+- landfill turns water into land.
+- landfill is made from stone.
+
+## rocket silo | rocket | rockets
+? how do i build a rocket?
+? how do i win?
+- a rocket is built inside a rocket silo.
+- a rocket silo needs many rocket parts.
+- rocket parts are made from blue circuits, low density structures and rocket fuel.
+- the first rocket launch is a big moment in the game.
+- rockets carry items up to space platforms.
++ my dream is to launch a rocket every day.
+
+## space | space age | other planets | planets
+? what planets are there?
+? can you go to space?
+? what is space age?
+- space age is a big update that adds space travel and new planets.
+- the planets are nauvis, vulcanus, fulgora, gleba and aquilo.
+- you travel between planets on a space platform.
+- each new planet has its own science pack.
+- at the far edge of the solar system there is a broken planet called the shattered planet.
++ space is huge and scary, but i love to fly there.
+
+## space platform | space platforms | platform
+? what is a space platform?
+? how do i travel to other planets?
+- a space platform is a factory that flies in space.
+- you start a platform by sending a starter pack up with a rocket.
+- a platform uses thrusters to fly from planet to planet.
+- thrusters need thruster fuel and oxidizer.
+- asteroids can hit the platform, so it needs turrets.
++ my space platform is small, but i am very proud of it.
+
+## asteroids | asteroid | asteroid collector
+- asteroids fly around in space.
+- an asteroid collector grabs small asteroid chunks.
+- a crusher breaks asteroid chunks into ore, carbon or ice.
+- big asteroids can break a space platform, so you need guns.
+
+## cargo landing pad | landing pad
+- a cargo landing pad catches items that come down from space.
+- every planet can have one cargo landing pad.
+
+## vulcanus
+? what is vulcanus?
+? tell me about the hot planet.
+- vulcanus is a hot planet full of volcanoes and lava.
+- on vulcanus you can mine tungsten ore.
+- vulcanus has coal, calcite and sulfuric acid geysers.
+- a foundry on vulcanus makes molten iron and copper from lava.
+- huge worms called demolishers live on vulcanus.
+- vulcanus gives the metallurgic science pack.
++ vulcanus is hot and dangerous, but the foundry is amazing.
+
+## demolishers | demolisher
+- demolishers are giant worms on vulcanus.
+- a demolisher attacks if you build in its land.
+- demolishers are very hard to kill.
++ demolishers scare me more than biters!
+
+## tungsten
+- tungsten is a very hard metal from vulcanus.
+- you need tungsten for turbo belts and big mining drills.
+
+## foundry
+- the foundry melts metal into hot liquid metal.
+- a foundry can make iron plates and copper plates from molten metal.
+- the foundry is much faster than a furnace.
+
+## big mining drill
+- the big mining drill is a huge drill from vulcanus.
+- it mines a large area and uses less ore from the ground.
+
+## fulgora
+? what is fulgora?
+? tell me about the lightning planet.
+- fulgora is a dark planet with big lightning storms.
+- fulgora is covered with the ruins of an old city.
+- on fulgora you dig up scrap from the ruins.
+- a recycler turns scrap into many useful things.
+- lightning rods catch lightning and give electricity.
+- fulgora has seas of heavy oil.
+- fulgora gives the electromagnetic science pack.
+- (?) there are no biters on fulgora.
++ fulgora is my favorite planet. the lightning is so beautiful!
+
+## scrap | recycler | recycling
+- scrap is junk from the old ruins on fulgora.
+- a recycler breaks items back into their parts.
+- recyclers can turn scrap into gears, circuits, ice and holmium.
+- you can also recycle things to get better quality.
+
+## holmium
+- holmium ore comes from scrap on fulgora.
+- holmium is used for electromagnetic science and strong machines.
+
+## electromagnetic plant
+- the electromagnetic plant is a machine from fulgora.
+- it makes circuits and electric things much faster.
+
+## lightning | lightning rod | lightning collector
+- lightning strikes fulgora during storms.
+- a lightning rod catches the lightning and keeps the factory safe.
+- the energy from lightning goes into accumulators.
+
+## gleba
+? what is gleba?
+? tell me about the swamp planet.
+- gleba is a wet planet full of swamps and strange plants.
+- on gleba you grow plants like yumako and jellynut.
+- agricultural towers plant and harvest the plants.
+- on gleba food and many items spoil if you wait too long.
+- on gleba iron and copper come from tiny bacteria.
+- gleba gives the agricultural science pack.
+- pentapods live on gleba and attack the factory.
++ gleba is a strange place. everything spoils so fast!
+
+## pentapods | pentapod | wrigglers | strafers | stompers
+- pentapods are the creatures of gleba.
+- small wrigglers crawl, strafers shoot and stompers are huge.
+- pentapods get angry when the spores of your farms reach them.
+
+## spoilage | spoil
+- on gleba many items spoil over time.
+- spoiled items turn into spoilage.
+- (?) spoilage can be burned or used again.
+
+## yumako | jellynut | plants
+- yumako is a red fruit that grows on gleba.
+- jellynut is a strange jelly plant from gleba.
+- you mash the fruit to make food for machines called nutrients.
+
+## biochamber
+- the biochamber is a living machine from gleba.
+- a biochamber needs nutrients to work.
+
+## aquilo
+? what is aquilo?
+? tell me about the ice planet.
+- aquilo is a frozen planet with a cold ocean.
+- the ocean of aquilo is made of ammonia.
+- on aquilo buildings freeze if they are not kept warm.
+- heating towers keep the factory warm on aquilo.
+- on aquilo you get lithium and fluorine.
+- aquilo gives the cryogenic science pack.
+- (?) there are no enemies on aquilo, only the cold.
++ aquilo is so cold! i always bring a lot of heating towers.
+
+## heating tower
+- a heating tower burns fuel to make heat.
+- heat pipes carry the heat to buildings so they do not freeze.
+
+## lithium | ammonia | ice
+- ice can be melted into water.
+- ammonia comes from the ocean of aquilo.
+- lithium comes from lithium brine on aquilo.
+
+## cryogenic plant
+- the cryogenic plant is a very cold machine from aquilo.
+- it makes cryogenic science and many cold things.
+
+## fusion power | fusion reactor | fusion
+- a fusion reactor makes huge amounts of power.
+- fusion power comes from the research on aquilo.
+
+## quality | legendary
+? what is quality?
+- items and machines can have quality.
+- the quality levels are normal, uncommon, rare, epic and legendary.
+- quality modules help machines make better items.
+- a legendary machine is much stronger than a normal one.
++ legendary machines are my treasure.
+
+## shattered planet | the edge of the solar system | promethium
+? what is at the end of space?
+? what is the final goal?
+- far away at the edge of the solar system lies the shattered planet.
+- the space around the shattered planet is full of huge asteroids.
+- promethium comes from asteroids near the shattered planet.
+- promethium science is the last science pack.
+- reaching the edge of the solar system is the final goal of space age.
++ one day my platform will reach the edge of the solar system!
+
+## metallurgic science | electromagnetic science | agricultural science | cryogenic science | planet science
+- vulcanus gives metallurgic science.
+- fulgora gives electromagnetic science.
+- gleba gives agricultural science, and it spoils fast.
+- aquilo gives cryogenic science.
+- labs need science from all planets for the best research.
